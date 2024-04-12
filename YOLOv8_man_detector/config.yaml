@@ -1,0 +1,7 @@
+path: /deepLearning/YOLOv8_man_detector
+train: images/train
+val:  images/train
+
+#class
+names:
+  0: man
